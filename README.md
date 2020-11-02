@@ -1,4 +1,4 @@
-# bikesharing
+# Bikesharing
 
 ## Overview of the Analysis
 In this project we are analyzing NYC Citi Bike data in order to understand the business model and start a bike rental in the city of Des Moines Iowa. We are approaching the data by analyzing how bike rental is different by the day of the week and hours; Also, how different bike rental is per gender. Moreover, we are looking on how long are rental trips. Here we have the full analysis: [link to dashboard](https://public.tableau.com/profile/andres3195#!/vizhome/Citi_Bike_Challenge_16042688657040/NYCCitibikeAnalysis?publish=yes)   
@@ -17,4 +17,8 @@ The most busy days are monday,tuesday, thursday and friday and busy hours sugges
 Usage by days and hours is similar between genders.
 <img width="987" alt="User Trips by Gender by Weekday" src="https://user-images.githubusercontent.com/68616522/97818058-2785ea00-1c6e-11eb-92d0-00fded5a0e3b.png">
 Customer trips are more on saturdays and sundays while sunscribers trips are more on weekdays. 
+
 ## Summary
+
+All in all we see that the bike utilization is greater for subscribers that use it to commute to work. Also, we could expect males to be our top users with a greater share over females of the bike utilization. Moreover, we could expect peak hours from 7am to 9am and 5pm to 7pm where we should have the most bikes available, and between 2am and 5am we could service the bikes since it is the time were less bikes are used. Also, we could have higher rates on busier times of bike utilization or reduced prices on low utilization hours to incentivate usage on those lower usage times.  Furthermore, it would make sense to install bike rental spaces close to industrial and commercial zones and also close to residential areas close to those commercial and industrial zones. Moreover, we should install bike rental spaces around tourist and historical areas.
+A further analysis should be done in order to compare how bike rides are done and how bike redistribution should be done if there are a lot of one way rides. Also, we should analyze how age impacts user bike usage.
